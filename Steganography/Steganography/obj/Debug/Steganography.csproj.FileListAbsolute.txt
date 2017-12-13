@@ -1,0 +1,141 @@
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\bin\Debug\Steganography.exe.config
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\bin\Debug\Steganography.exe
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\bin\Debug\Steganography.pdb
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\MainWindow.g.cs
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\App.g.cs
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\Steganography_MarkupCompile.cache
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\Steganography_MarkupCompile.lref
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\MainWindow.baml
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\Steganography.g.resources
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\Steganography.exe
+c:\users\anhen\documents\visual studio 2015\Projects\Steganography\Steganography\obj\Debug\Steganography.pdb
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\bin\Debug\Steganography.exe
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\bin\Debug\Steganography.pdb
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\App.g.cs
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\Steganography_MarkupCompile.cache
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\Steganography_MarkupCompile.lref
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\Steganography.g.resources
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\Steganography.exe
+C:\Users\student\Downloads\Steganography\Steganography\Steganography\obj\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\bin\Debug\Steganography.exe.config
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\bin\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\bin\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\MainWindow.g.cs
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\App.g.cs
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\Steganography_MarkupCompile.cache
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\Steganography_MarkupCompile.lref
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\MainWindow.baml
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\Steganography.g.resources
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (1)\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\bin\Debug\Steganography.exe.config
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\bin\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\bin\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\MainWindow.g.cs
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\App.g.cs
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Steganography_MarkupCompile.cache
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Steganography_MarkupCompile.lref
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\MainWindow.baml
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Steganography.g.resources
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Welcome.g.cs
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography\obj\Debug\Welcome.baml
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\bin\Debug\Steganography.exe.config
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\bin\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\bin\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\MainWindow.g.cs
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Welcome.g.cs
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\App.g.cs
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Steganography_MarkupCompile.cache
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Steganography_MarkupCompile.lref
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\MainWindow.baml
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Welcome.baml
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Steganography.g.resources
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+D:\Программирование WPF\Экзамен\Steganography (1)\Steganography (1)\Steganography (3)\Steganography (5)\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\bin\Debug\Steganography.exe.config
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\bin\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\bin\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\MainWindow.g.cs
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\Welcome.g.cs
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\App.g.cs
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\Steganography_MarkupCompile.cache
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\Steganography_MarkupCompile.lref
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\MainWindow.baml
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\Welcome.baml
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\Steganography.g.resources
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+D:\Программирование WPF\Экзамен\Steganography (5)\Steganography (5)\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\bin\Debug\Steganography.exe.config
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\bin\Debug\Steganography.exe
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\bin\Debug\Steganography.pdb
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\Welcome.g.cs
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\App.g.cs
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\Steganography_MarkupCompile.cache
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\Steganography_MarkupCompile.lref
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\Welcome.baml
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\Steganography.g.resources
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\Steganography.exe
+C:\Users\student\Downloads\Steganography (6)\Steganography (6)\Steganography\obj\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\bin\Debug\Steganography.exe.config
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\bin\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\bin\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\MainWindow.g.cs
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Welcome.g.cs
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\App.g.cs
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Steganography_MarkupCompile.cache
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Steganography_MarkupCompile.lref
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\MainWindow.baml
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Welcome.baml
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Steganography.g.resources
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\Steganography.AboutProgram.resources
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\WindowHelp.g.cs
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (7)\Steganography\obj\Debug\WindowHelp.baml
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\bin\Debug\Steganography.exe.config
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\bin\Debug\Steganography.exe
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\bin\Debug\Steganography.pdb
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\MainWindow.g.cs
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Welcome.g.cs
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\WindowHelp.g.cs
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\App.g.cs
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Steganography_MarkupCompile.cache
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Steganography_MarkupCompile.lref
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\MainWindow.baml
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Welcome.baml
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\WindowHelp.baml
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Steganography.g.resources
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Steganography.AboutProgram.resources
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Steganography.Properties.Resources.resources
+D:\Программирование WPF\Экзамен\Steganography (7)\Steganography (8)\Steganography\obj\Debug\Steganography.csproj.GenerateResource.Cache
